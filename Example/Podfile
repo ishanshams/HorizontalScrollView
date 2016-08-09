@@ -3,9 +3,4 @@ use_frameworks!
 target 'HorizontalScrollView_Example' do
   pod 'HorizontalScrollView', :path => '../'
 
-  target 'HorizontalScrollView_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

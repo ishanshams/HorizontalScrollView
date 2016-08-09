@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HorizontalScrollView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HorizontalScrollView.'
+  s.summary          = 'It is a Horizontal ScrollView with a Page Control and text description. You can replace slide images with your own images.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: A long description of HorizontalScrollView Pod. It is a horizontal scrollView with a page control and text description. It has a demo application.
                        DESC
 
   s.homepage         = 'https://github.com/ishanshams/HorizontalScrollView'
